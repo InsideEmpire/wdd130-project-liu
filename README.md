@@ -1,2 +1,2 @@
 # wdd130-project-liu
-This is a project
+The site plan is [Liu-site-plan.docx](Liu-site-plan.docx)
